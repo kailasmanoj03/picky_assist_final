@@ -155,4 +155,3 @@ if st.button("Send") and user_input:
             st.experimental_rerun()
 
 st.divider()
-st.info("Deploy this app on Streamlit Cloud and store your OpenAI API key in Secrets as")
